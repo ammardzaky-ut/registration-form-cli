@@ -45,4 +45,4 @@ Alice Smith is 22 years old
 
 ## Author
 
-Created by [Your Name]
+Created by Dzaky
