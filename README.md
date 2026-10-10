@@ -17,3 +17,31 @@ This project demonstrates a clear separation of concerns by utilizing a lightwei
 
 ```bash
 python registration_form.py
+
+## Example Output
+
+```bash
+=== Employee Registration Form ===
+First Name: Alice
+Last Name: Smith
+Address: 123 Main St
+Apartment/Unit (Optional): 4B
+Age: 25
+...
+
+==============================
+   REGISTRATION SUCCESSFUL
+==============================
+Employee ID : DEV-2026-AS-742
+Name        : Alice Smith
+Address     : 123 Main St, 4B
+Profile     : 25 years old | 3 yrs exp.
+Role        : DEVELOPER | Salary: $5,500.00
+
+## Development Note
+
+Originally written as a procedural script to understand basic I/O and variable assignments, this project has been refactored into an OOP structure to align with scalable backend development practices.
+
+## Author
+
+Created by Dzaky
