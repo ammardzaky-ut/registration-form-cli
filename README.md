@@ -17,6 +17,7 @@ This project demonstrates a clear separation of concerns by utilizing a lightwei
 
 ```bash
 python registration_form.py
+```
 
 ## Example Output
 
@@ -37,6 +38,7 @@ Name        : Alice Smith
 Address     : 123 Main St, 4B
 Profile     : 25 years old | 3 yrs exp.
 Role        : DEVELOPER | Salary: $5,500.00
+```
 
 ## Development Note
 
